@@ -93,7 +93,7 @@ dog.makesound();
 
 
 
-///when we want to freeze the object means we dnt want to chanbes occuring on runtime we use the object.freeze();
+///when we want to freeze the object means we dont want to changes occuring on runtime we use the object.freeze();
 
 
 // 
